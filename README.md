@@ -1,4 +1,6 @@
 # Все эти программы без GUI
+Скачать: ```git clone https://github.com/KingoLev/My-programs```
+
 Запуск программ: ```java путь/до/программы```
 
 # calc
