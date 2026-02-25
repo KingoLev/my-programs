@@ -1,5 +1,5 @@
 # Все эти программы без GUI
-Скачать: ```git clone https://github.com/KingoLev/My-programs```
+Скачать: ```git clone https://github.com/KingoLev/my-programs```
 
 Запуск программ: ```java путь/до/программы```
 
